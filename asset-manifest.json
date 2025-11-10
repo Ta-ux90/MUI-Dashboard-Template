@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MUI-Dashboard-Template/static/css/main.32f80543.css",
+    "main.js": "/MUI-Dashboard-Template/static/js/main.3ac05a68.js",
+    "static/js/592.7e679e76.chunk.js": "/MUI-Dashboard-Template/static/js/592.7e679e76.chunk.js",
+    "index.html": "/MUI-Dashboard-Template/index.html",
+    "main.32f80543.css.map": "/MUI-Dashboard-Template/static/css/main.32f80543.css.map",
+    "main.3ac05a68.js.map": "/MUI-Dashboard-Template/static/js/main.3ac05a68.js.map",
+    "592.7e679e76.chunk.js.map": "/MUI-Dashboard-Template/static/js/592.7e679e76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32f80543.css",
+    "static/js/main.3ac05a68.js"
+  ]
+}
